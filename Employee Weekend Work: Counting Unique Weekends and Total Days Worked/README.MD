@@ -1,1 +1,0 @@
-https://www.codewars.com/kata/6614e1e887f83d3ad409571e/sql
