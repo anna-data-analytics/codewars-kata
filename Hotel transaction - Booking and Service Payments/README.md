@@ -1,6 +1,11 @@
-Problem: https://www.codewars.com/kata/65705f19f926c71f4c19fcaa
+## Problem:
 
-Solution:
+In a hotel booking system, a customer might make an initial payment to book a room and then make another payment for additional services or amenities during their stay. Create an SQL query that groups the transactions by each guest's booking.
+
+Full description:
+https://www.codewars.com/kata/65705f19f926c71f4c19fcaa
+
+## Solution:
 
 ```sql
 WITH ranked_transactions AS (
